@@ -57,8 +57,3 @@ The trained model typically achieves over **95% test accuracy** on the Iris data
 - Data Visualization
 
 ---
-
-
-## Author
-
-Rajesh
